@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Media View</string>
+    <string name="buffering">Buffering...</string>
+</resources>
